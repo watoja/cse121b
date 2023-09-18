@@ -1,7 +1,7 @@
 // 🔍 Part 1 error
 let userName = "Moroni";
 console.log(`Username: ${userName}`);
-userName = "Moronihah";
+userName = "Moronhah";
 console.log(`Username: ${userName}`);
 
 // 🔍 Part 2 error
