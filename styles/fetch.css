@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Inter:wght@300&family=Roboto+Slab:wght@500&display=swap');
+/* Style the calculator and buttons */
+.calculator {
+  width: 300px;
+  margin: 0 auto;
+  text-align: center;
+  border: 2px solid black;
+  padding: 15px;
+}
+
+#display {
+  width: 100%;
+  height: 40px;
+  font-size: 24px;
+  text-align: right;
+  color:black;
+  background-color: aqua;
+}
+
+button {
+  width: 60px;
+  height: 60px;
+  font-size: 24px;
+  margin: 5px;
+  border-color: black;
+}
+
+/* Style numeric buttons */
+.number {
+  color: aqua;
+  background-color: black;
+  border: 1px solid #ccc;
+}
+
+/* Style operator buttons */
+.operator {
+  background-color: aqua;
+  border: 1px solid #d98c10;
+  color: black;
+}
